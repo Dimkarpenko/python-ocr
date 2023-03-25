@@ -18,3 +18,4 @@
 ## Материалы, использованные при создании проекта
 - https://medium.com/@magodiasanket/ocr-optical-character-recognition-from-scratch-using-deep-learning-a6a599963d71
 - https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
+- https://github.com/githubharald/SimpleHTR
