@@ -3,6 +3,8 @@
 
 [![N|Solid](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dimkarpenko/python-ocr/blob/main/train_model.ipynb)
 
+![image](https://user-images.githubusercontent.com/69617058/227732889-3cbccc16-9ea5-4dde-b187-d6e9b54c5551.png)
+
 ## Библиотеки, использующиеся в проекте
 
 - Tensorflow
