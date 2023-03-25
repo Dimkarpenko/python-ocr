@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/69617058/227732889-3cbccc16-9ea5-4dde-b187-d6e9b54c5551.png)
 
-## Библиотеки, использующиеся в проекте
+## Библиотеки, использованные при создании проекта
 
 - Tensorflow
 - Keras
